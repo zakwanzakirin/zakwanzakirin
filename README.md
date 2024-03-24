@@ -28,6 +28,11 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />           
 <br />
 
+
+### 📊 Achivement
+
+CGPA of Diploma in Computer Science (Information Technology) : 3.21 **Universiti Teknologi Malaysia Kuala Lumpur**
+CGPA of Bachelor in Computer Science (Bioinformatics) : 3.42 
 #
 <!--
 **zakwanzakirin/zakwanzakirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
