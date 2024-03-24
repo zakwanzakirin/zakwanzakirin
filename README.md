@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=zakwanzakirin&label=PROFILE+VIEWS)
 # 👨‍🎓 Zakwan Zakirin
 
 **`UTM Student (Bioinformatics)`**
