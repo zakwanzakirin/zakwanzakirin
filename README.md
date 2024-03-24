@@ -49,7 +49,7 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![zakwanzakirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakwanzakirin&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
