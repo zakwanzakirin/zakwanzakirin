@@ -31,7 +31,7 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 ### 📊 Achivement
 
-- CGPA of Diploma in Computer Science (Information Technology) : 3.21 **'Universiti Teknologi Malaysia Kuala Lumpur'**
+- CGPA of Diploma in Computer Science (Information Technology) : 3.21 **`UTM Student (Bioinformatics)U`**
 - CGPA of Bachelor in Computer Science (Bioinformatics) : 3.42 
 #
 <!--
