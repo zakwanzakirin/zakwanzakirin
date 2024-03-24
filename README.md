@@ -54,7 +54,12 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=-+Make+each+day+your+masterpiece+-" alt="Typing SVG" /></a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=-+Make+each+day+your+masterpiece+-" alt="Typing SVG" />
+    </a>
+</div>
+
 
 #
 <!--
