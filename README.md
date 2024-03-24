@@ -31,8 +31,8 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 ### 📊 Achivement
 
-CGPA of Diploma in Computer Science (Information Technology) : 3.21 **Universiti Teknologi Malaysia Kuala Lumpur**
-CGPA of Bachelor in Computer Science (Bioinformatics) : 3.42 
+- CGPA of Diploma in Computer Science (Information Technology) : 3.21 **'Universiti Teknologi Malaysia Kuala Lumpur'**
+- CGPA of Bachelor in Computer Science (Bioinformatics) : 3.42 
 #
 <!--
 **zakwanzakirin/zakwanzakirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
