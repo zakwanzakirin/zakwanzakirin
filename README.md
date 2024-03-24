@@ -32,7 +32,7 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 #
 
-### 📊 Achivement
+### 💣 Achivement
 
 - 🎖 CGPA of Diploma in Computer Science (Information Technology) : 3.21 **`Universiti Teknologi Malaysia Kuala Lumpur`**
 - 🎖 CGPA of Bachelor in Computer Science (Bioinformatics) : 3.42 **`Universiti Teknologi Malaysia Johor Bahru - Current`**
@@ -44,6 +44,14 @@ I'm a final year student that currently study in Universiti Teknologi Malaysia p
 
 - 🪙Treasurer of Financial Literacy  **`Universiti Teknologi Malaysia Kuala Lumpur`**
 - 🏫School Prefect **`Sekolah Menengah Kebangsaan Seremban 2`**
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
